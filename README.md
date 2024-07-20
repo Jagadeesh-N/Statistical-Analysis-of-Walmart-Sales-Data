@@ -1,4 +1,4 @@
-# Walmart-Store-Sales-Prediction-Analysis
+# Statistical Analysis of Walmart Sales Data
 
 ## Project Overview
 
