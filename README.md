@@ -1,4 +1,4 @@
-# Statistical Analysis of Walmart Sales Data
+# Walmart Sales Forecasting Using Statistical Modeling
 
 ## Project Overview
 
